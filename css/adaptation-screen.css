@@ -1,0 +1,626 @@
+@media (max-width: 1200px) {
+
+
+	.img-history {
+    padding-top: 146px;
+    margin-left: 477px;
+    height: 400px;
+	}
+
+
+	.middle-card {
+    display: none;
+	}
+
+
+	.cards-holder {
+		justify-content: space-around;
+	}
+
+	.cart {
+		display: none;
+	}
+
+	.book {
+		display: none;
+	}
+
+	.phone {
+		margin-left: 14px;
+	}
+
+	.header-mini {
+    margin-left: 57px;
+	}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) and (max-heigth: 1500px) {
+	.img-history {
+		display: none;
+	}
+
+
+	.img-cookers {
+		display: block;
+		text-align: center;
+	}
+
+	.img-cookers img {
+		margin-right: 0;
+	}
+
+	.dishes-img-bottom {
+		display: none;
+	}
+	.dishes-img-top {
+		display: block;
+		text-align: center;
+	}
+
+	.dishes-img img:first-of-type {
+		margin-right: 0;
+	}
+
+	.img-2 {
+		left: 126px;
+	}
+
+	.price-text {
+		left: 158px;
+	}
+
+	.card-menu {
+		width: auto;
+	}
+
+	.picture-cheesburger {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.pizza-left-img {
+		display: none;
+	}
+
+	.history-title {
+		margin-left: 17%;
+		position: sticky;
+	}
+
+
+	.dishes-text span:before {
+		content: ' ';
+	}
+
+	.celebrate-title {
+		text-align: center;
+	}
+
+
+	.button {
+		position: absolute;
+    left: -397px;
+    bottom: -141px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+	.header-mini, .cart,
+	.phone, .order-bnt {
+		display: none;
+	}
+
+
+
+	.header-logo {
+		position: relative;
+	}
+
+	.header-title {
+		left: 110px;
+	}
+
+	#burger-menu {
+		display: block;
+		position: absolute;
+    left: 800px;
+	}
+
+
+
+	.block {
+		display: block;
+	}
+
+
+
+
+
+	.header-mini-menu {
+		position: absolute;
+		display: flex;
+    left: -345px;
+    top: 0px;
+		opacity: 1;
+
+		transition: 0.5s linear;
+	}
+
+
+
+	.disp {
+		display: none;
+		transition: 0.5s linear;
+	}
+
+	.header-title {
+		top: 110px;
+	}
+
+	.last-bg {
+		height: 50vh;
+	}
+}
+
+
+
+
+
+@media (max-width: 992px) {
+
+	.img-history {
+		display: none;
+	}
+
+
+	.history-holder {
+    margin-bottom: 162px;
+    margin-top: 26px;
+	}
+
+
+	.img-cookers {
+		display: block;
+		text-align: center;
+	}
+
+	.img-cookers img {
+		margin-right: 0;
+	}
+
+	.dishes-img-bottom {
+		display: none;
+	}
+	.dishes-img-top {
+		display: block;
+		text-align: center;
+	}
+
+	.dishes-img img:first-of-type {
+		margin-right: 0;
+	}
+
+	.img-2 {
+		left: 126px;
+	}
+
+	.price-text {
+		left: 158px;
+	}
+
+	.card-menu {
+		width: auto;
+	}
+
+	.picture-cheesburger {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.pizza-left-img {
+		display: none;
+	}
+
+	.history-title {
+		margin-left: 17%;
+		position: sticky;
+	}
+
+
+	.dishes-text span:before {
+		content: ' ';
+	}
+
+	.celebrate-title {
+		text-align: center;
+	}
+
+
+	.button {
+		position: absolute;
+    left: -397px;
+    bottom: -141px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+	.header-mini, .cart,
+	.phone, .order-bnt {
+		display: none;
+	}
+
+
+
+	.header-logo {
+		position: relative;
+	}
+
+	.header-title {
+		left: 110px;
+	}
+
+	#burger-menu {
+		display: block;
+		position: absolute;
+    left: 800px;
+	}
+
+
+
+	.block {
+		display: block;
+	}
+
+
+
+
+
+	.header-mini-menu {
+		position: absolute;
+		display: flex;
+    left: -345px;
+    top: 0px;
+		opacity: 1;
+
+		transition: 0.5s linear;
+	}
+
+
+
+	.disp {
+		display: none;
+		transition: 0.5s linear;
+	}
+
+
+
+
+
+
+
+	.title-text-column {
+		font-size: 17px;
+	}
+
+	.down-text-column {
+		font-size: 14px;
+	}
+
+
+	.icons img {
+    width: 31px;
+    height: 30px;
+	}
+
+
+
+
+
+}
+
+@media (max-width: 768px) {
+
+	.img-history {
+		display: none;
+	}
+
+
+	.img-cookers {
+		display: block;
+		text-align: center;
+	}
+
+	.img-cookers img {
+		margin-right: 0;
+	}
+
+	.dishes-img-bottom {
+		display: none;
+	}
+	.dishes-img-top {
+		display: block;
+		text-align: center;
+	}
+
+	.dishes-img img:first-of-type {
+		margin-right: 0;
+	}
+
+	.img-2 {
+		left: 126px;
+	}
+
+	.price-text {
+		left: 158px;
+	}
+
+	.card-menu {
+		width: auto;
+	}
+
+	.picture-cheesburger {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.pizza-left-img {
+		display: none;
+	}
+
+	.history-title {
+		margin-left: 17%;
+		position: sticky;
+	}
+
+
+	.dishes-text span:before {
+		content: ' ';
+	}
+
+	.celebrate-title {
+		text-align: center;
+	}
+
+
+	.button {
+		position: absolute;
+    left: -397px;
+    bottom: -141px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+	.header-mini, .cart,
+	.phone, .order-bnt {
+		display: none;
+	}
+
+
+
+	.header-logo {
+		position: relative;
+	}
+
+	.header-title {
+		left: 110px;
+	}
+
+	#burger-menu {
+		display: block;
+		position: absolute;
+    left: 800px;
+	}
+
+
+
+	.block {
+		display: block;
+	}
+
+
+
+
+
+	.header-mini-menu {
+		position: absolute;
+		display: flex;
+    left: -345px;
+    top: 0px;
+		opacity: 1;
+
+		transition: 0.5s linear;
+	}
+
+
+
+	.disp {
+		display: none;
+		transition: 0.5s linear;
+	}
+
+	.header-title {
+		top: 110px;
+	}
+
+
+	.icons {
+    margin-top: 144px;
+	}
+
+}
+
+
+@media (max-width: 576px) {
+
+	.img-history {
+		display: none;
+	}
+
+
+	.img-cookers {
+		display: block;
+		text-align: center;
+	}
+
+	.img-cookers img {
+		margin-right: 0;
+	}
+
+	.dishes-img-bottom {
+		display: none;
+	}
+	.dishes-img-top {
+		display: block;
+		text-align: center;
+	}
+
+	.dishes-img img:first-of-type {
+		margin-right: 0;
+	}
+
+	.img-2 {
+		left: 126px;
+	}
+
+	.price-text {
+		left: 158px;
+	}
+
+	.card-menu {
+		width: auto;
+	}
+
+	.picture-cheesburger {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.pizza-left-img {
+		display: none;
+	}
+
+	.history-title {
+		margin-left: 17%;
+		position: sticky;
+	}
+
+
+	.dishes-text span:before {
+		content: ' ';
+	}
+
+	.celebrate-title {
+		text-align: center;
+	}
+
+
+	.button {
+		position: absolute;
+    left: -397px;
+    bottom: -141px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+	.header-mini, .cart,
+	.phone, .order-bnt {
+		display: none;
+	}
+
+
+
+	.header-logo {
+		position: relative;
+	}
+
+	.header-title {
+		left: 110px;
+	}
+
+	#burger-menu {
+		display: block;
+		position: absolute;
+    left: 800px;
+	}
+
+
+
+	.block {
+		display: block;
+	}
+
+
+
+
+
+	.header-mini-menu {
+		position: absolute;
+		display: flex;
+    left: -345px;
+    top: 0px;
+		opacity: 1;
+
+		transition: 0.5s linear;
+	}
+
+
+
+	.disp {
+		display: none;
+		transition: 0.5s linear;
+	}
+
+
+	.last-bg {
+    height: 50vh;
+	}
+
+}
